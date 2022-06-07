@@ -6,4 +6,4 @@ My name is Layne Liu. I'm studying for a master's degree in computing science at
 
 I prefer three programming languages -- C++, Python and Haskell. C++ forces me to think what really programming languages are. Python is concise and easy to express my ideas clearly. As for Haskell, I don't like it at the very beginning. But it's pretty close to math, which makes it elegant. Anyway, it's a super niche language.
 
-![How to be a good programmer](figures\programmers.jpg)
+![How to be a good programmer](./figures/programmers.jpg)
