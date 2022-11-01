@@ -1,12 +1,9 @@
 ## Hi there 👋
 
 ### About me
-I'm Layne Liu, currently studying for a master's degree in computing science at [Utrecht University](https://www.uu.nl/en).
+My name is Layne Liu. I am a recent master's graduate in computing science at [Utrecht University](https://www.uu.nl/en). 
 Before this, I received my bachelor's degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/),
-and then I worked as a cloud computing engineer at [China Pacific Insurance Company](https://www.cpic.com.cn/) for almost two years.
-
-### What I'm doing now
-I’m working on my master's thesis ---- type analysis for Python. You may find the related code in [Dynamic Monotone Framework](https://github.com/LayneInNL/dmf).
+and then I worked as a cloud engineer at [China Pacific Insurance Company](https://www.cpic.com.cn/) for almost two years.
 
 ### My favorite programming languages
 I prefer three languages ---- C++, Python and Haskell.
