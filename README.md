@@ -11,5 +11,8 @@ I prefer three languages ---- C++, Python and Haskell.
 - Python is concise and easy to express my ideas clearly.
 - Haskell, which is a pure functional language, gives me lots of new experiences. 
 
+### Currently reading
+- Practical Foundations for Programming Languages, 2nd Edition
+
 ### My quotes
 ![How to be a good programmer](./figures/programmers.jpg)
