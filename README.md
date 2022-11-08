@@ -7,7 +7,7 @@ and then I worked as a cloud engineer at [China Pacific Insurance Company](https
 
 ### My favorite programming languages
 I prefer three languages ---- C++, Python and Haskell.
-- C++ forces me to think what really programming languages are.
+- C++ forces me to think deeply about a problem.
 - Python is concise and easy to express my ideas clearly.
 - Haskell, which is a pure functional language, gives me lots of new experiences. 
 
