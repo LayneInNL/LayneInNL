@@ -13,6 +13,7 @@ I prefer three languages ---- C++, Python and Haskell.
 
 ### Currently reading
 - Practical Foundations for Programming Languages, 2nd Edition
-
+- Types and Programming Languages
+- Engineering A Compiler, 2nd Edition
 ### My quotes
 ![How to be a good programmer](./figures/programmers.jpg)
