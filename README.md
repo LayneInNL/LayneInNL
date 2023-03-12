@@ -1,17 +1,11 @@
 ## Hi there 👋
 
 ### About me
-My name is Layne Liu. From February 2023 onwards, I will be a PHD candidate in the TU Delft Programming Languages Group at [Delft University of Technology](https://www.tudelft.nl/en/). Before this, I received my master's degree in computing science at [Utrecht University](https://www.uu.nl/en) and my bachelor's degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my master's study, I worked as a cloud engineer at [China Pacific Insurance Company](https://www.cpic.com.cn/) for almost two years.
+My name is Layne Liu. I am a PhD candidate in the [TU Delft Programming Languages Group](http://pl.ewi.tudelft.nl/) at [Delft University of Technology](https://www.tudelft.nl/en/). Before this, I received my master's degree in computing science at [Utrecht University](https://www.uu.nl/en) and my bachelor's degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). Before my master's study, I worked as a cloud engineer at [China Pacific Insurance Company](https://www.cpic.com.cn/) for almost two years.
 
-### My favorite programming languages
-I prefer three languages ---- C++, Python and Haskell.
-- C++ forces me to think deeply about a problem.
-- Python is concise and easy to express my ideas clearly.
-- Haskell, which is a pure functional language, gives me lots of new experiences. 
+### Current work
+- [clang](https://clang.llvm.org/)
 
-### Currently reading
-- Practical Foundations for Programming Languages, 2nd Edition
-- Types and Programming Languages
-- Engineering A Compiler, 2nd Edition
-### My quotes
-![How to be a good programmer](./figures/programmers.jpg)
+### Current reading
+- [Engineering a Compiler, 2nd Edition](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
+- Papers regarding software restructuring 
