@@ -9,3 +9,7 @@ My name is Layne Liu. I am a PhD candidate in the [TU Delft Programming Language
 ### Current reading
 - [Engineering a Compiler, 2nd Edition](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
 - Papers regarding software restructuring 
+
+### Blog
+
+[How to dump ATerms in clang](./llvm/clang/How%20to%20dump%20ATerms%20in%20clang.md)
