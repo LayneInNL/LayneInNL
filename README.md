@@ -13,3 +13,8 @@ My name is Layne Liu. I am a PhD candidate in the [TU Delft Programming Language
 ### Blog
 
 [The principle of TextNodeDumper](./llvm/clang/How%20to%20dump%20ATerms%20in%20clang.md)
+
+### Useful websites
+
+- [Longman](https://www.ldoceonline.com/)
+- [The free dictionary](https://www.thefreedictionary.com/)
