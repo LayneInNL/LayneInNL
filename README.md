@@ -10,10 +10,10 @@ Before my master's study, I worked as a cloud engineer at [China Pacific Insuran
 - [Spoofax](https://spoofax.dev/)
 
 ### Current reading
-- [Engineering a Compiler, 2nd Edition](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
-- [LLVM Techniques, Tips, and Best Practices Clang and Middle-End Libraries: Design powerful and reliable compilers using the latest libraries and tools from LLVM](https://www.packtpub.com/product/llvm-techniques-tips-and-best-practices-clang-and-middle-end-libraries/9781838824952)
-- Papers regarding software restructuring 
-
+- [] [Engineering a Compiler, 2nd Edition](https://www.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0)
+- [] [LLVM Techniques, Tips, and Best Practices Clang and Middle-End Libraries: Design powerful and reliable compilers using the latest libraries and tools from LLVM](https://www.packtpub.com/product/llvm-techniques-tips-and-best-practices-clang-and-middle-end-libraries/9781838824952)
+- [] Papers regarding software restructuring 
+- [x] Programming in Haskell
 ### Blog
 
 [The principle of TextNodeDumper](./llvm/clang/How%20to%20dump%20ATerms%20in%20clang.md)(semi-finished)
