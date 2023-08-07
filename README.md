@@ -9,3 +9,5 @@ Before my master's study, I worked as a cloud engineer at [China Pacific Insuran
 
 - [Longman](https://www.ldoceonline.com/)
 - [The free dictionary](https://www.thefreedictionary.com/)
+
+> Never be a prisoner of your past. It was just a lesson, not a life sentence. – Anonymous
