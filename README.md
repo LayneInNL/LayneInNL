@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About me
-My name is Layne Liu. I am a PhD student under [Casper Bach Poulsen](https://www.tudelft.nl/en/staff/c.b.poulsen/?cHash=2da108945c5287a90cdaacb197983bfa)'s supervision in the [TU Delft Programming Languages Group](https://pl.ewi.tudelft.nl/) at [Delft University of Technology](https://www.tudelft.nl/en/) (TUD). Before this, I obtained my master's degree in Computer Science at [Utrecht University](https://www.uu.nl/en) (UU) and my bachelor's degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
+My name is Layne Liu (my real first name is Xulei, never mind). I am a PhD student under [Casper Bach Poulsen](https://www.tudelft.nl/en/staff/c.b.poulsen/?cHash=2da108945c5287a90cdaacb197983bfa)'s supervision in the [TU Delft Programming Languages Group](https://pl.ewi.tudelft.nl/) at [Delft University of Technology](https://www.tudelft.nl/en/) (TUD). Before this, I obtained my master's degree in Computer Science at [Utrecht University](https://www.uu.nl/en) (UU) and my bachelor's degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
 
 Before my master's study, I worked as a cloud engineer at [China Pacific Insurance Company](https://www.cpic.com.cn/) (CPIC) for almost two years. I really appreciated the work-life balance offered by CPIC. I had no chance to obtain my admission letter from UU without it, let alone my PhD position from TUD.
 
@@ -13,11 +13,12 @@ Any feedback is appreciated!
 
 ### Stimulating trips
 
-- Student volunteer at [SPLASH 2023](https://2023.splashcon.org/)
-- [POPL 2024: To Be Arranged](https://popl24.sigplan.org/)
+- [SPLASH 2023](https://2023.splashcon.org/): a student volunteer
+- [POPL 2024](https://popl24.sigplan.org/): a presenter at [PEPM 2024](https://popl24.sigplan.org/home/pepm-2024)
 
 ### Useful websites
 
+- [Emacs](https://www.gnu.org/software/emacs/)
 - [Longman](https://www.ldoceonline.com/)
 - [The Farlex Grammar Book](https://www.thefreedictionary.com/The-Farlex-Grammar-Book.htm)
 
