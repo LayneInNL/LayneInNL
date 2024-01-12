@@ -13,8 +13,8 @@ Any feedback is appreciated!
 
 ### Stimulating trips
 
-- [SPLASH 2023](https://2023.splashcon.org/): a student volunteer
-- [POPL 2024](https://popl24.sigplan.org/): a presenter at [PEPM 2024](https://popl24.sigplan.org/home/pepm-2024)
+- [SPLASH 2023](https://2023.splashcon.org/)
+- [POPL 2024](https://popl24.sigplan.org/)
 
 ### Useful websites
 
