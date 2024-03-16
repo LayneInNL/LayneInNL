@@ -5,17 +5,6 @@ My name is Layne Liu (my real first name is Xulei, never mind). I am a PhD stude
 
 Before my master's study, I worked as a cloud engineer at [China Pacific Insurance Company](https://www.cpic.com.cn/) (CPIC) for almost two years. I really appreciated the work-life balance offered by CPIC. I had no chance to obtain my admission letter from UU without it, let alone my PhD position from TUD.
 
-### Concrete progress
-
-Any feedback is appreciated!
-
-- [Towards a Language-parametric DSL for Refactoring (Short Paper)](https://popl24.sigplan.org/home/pepm-2024#event-overview)
-
-### Stimulating trips
-
-- [SPLASH 2023](https://2023.splashcon.org/)
-- [POPL 2024](https://popl24.sigplan.org/)
-
 ### Useful websites
 
 - [Emacs](https://www.gnu.org/software/emacs/)
